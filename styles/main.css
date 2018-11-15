@@ -1,0 +1,224 @@
+/* index*/
+*{
+margin: 0;
+padding: 0;
+}
+.page1{
+    background-color: yellow;
+    margin: 60px 0px 0px 80px;
+    padding: 10px 0px 30px 0px;
+    height: 1390px;
+    width: 970px;
+     
+}
+.page1 p,.page1 h2,.page1 h3,.page3 nav,.page3 article,.page3 footer{
+    width: 900px;
+}
+.page1 p{
+    background-color: green;
+    margin: 10px 30px 20px 40px;
+    height: 600px;
+}
+.page1 h2{
+    background-color: red;
+    margin: 0px 10px 30px 60px;
+    height: 400px;
+    
+}
+.page1 h3{
+    background-color: blue;
+    margin: 0px 40px 0px 30px;
+    height: 300px;
+    
+}
+/* page2*/
+.page2{
+    background-color: gray;
+    width:  895px;
+    height: 950px;
+    margin: 60px 0px 0px 80px ;
+    padding: 1px;
+  }
+  .page2 aside nav{
+    background-color: aqua;
+    width: 835px;
+    height: 260px;
+    margin: 30px 20px 15px 40px;
+    padding: 1px;
+  }
+  .page2 aside nav div,.page2 aside nav article{
+    background-color: orange;
+    width: 800px;
+    height: 100px;
+  }
+  .page2 aside nav div{
+    margin: 30px 15px 10px 20px; 
+  }
+  .page2 aside nav article{
+      margin: 10px 15px 10px 20px;
+  }
+.page2 footer{
+    background-color: coral;
+    width: 835px;
+    height: 350px;
+    margin: 0px 30px 20px 30px;
+    padding: 1px;
+}
+.page2 footer nav{
+    background-color: #130808;
+    width: 800px;
+    height: 300px;
+    margin: 30px 25px 20px 10px;
+}
+.page2 article{
+    background-color: brown;
+    width: 835px ;
+    height: 250px;
+    margin: 0px 15px 25px 25px;
+}
+
+/* page3*/
+.page3{
+    background-color: #6086EE;
+    margin: 40px 0px 0px 30px;
+    height: 830px;
+    width: 980px;
+    padding: 1px;
+}
+.page3 nav{
+    background-color:greenyellow;
+    height: 300PX;
+    margin: 10px 40px 30px 40px;
+}
+.page3 article{
+    background-color: salmon;
+    height: 240px;
+    margin: 0px 50px 40px 30px;
+    padding: 1px;
+}
+.page3 article div{
+background-color: black;
+width: 850px;
+height: 100px;
+margin: 10px 15px 10px 15px;
+}
+.page3 footer{
+background-color: yellow;
+height: 200px;
+margin: 0px 60px 10px 20px;
+padding: 1px;
+}
+.page3 footer  nav{
+background-color: black;
+width: 860px;
+height: 140px;
+margin: 30px 10px 30px 10px;
+padding: 1px;
+}
+.page3 footer nav div{
+    background-color: white;
+    width: 820px;
+    height: 100px;
+    margin: 20px;
+    padding: 1px;
+}
+ .page3 footer nav div article{
+     background-color: seagreen;
+     width: 780px;
+     height: 80px;
+     margin: 10px 20px 10px 20px;
+ }
+ /*pagina 4*/
+ .page4{
+     background-color: #16A085;
+     width: 1000px;
+     height: 1200px;
+     margin: 40px 0px 0px 40px;
+     padding: 1px;
+ }
+ .page4 aside{
+     background-color: #F9E79F  ;
+     width: 960px;
+     height: 1160px;
+     margin: 20px;
+     padding: 1px;
+ }
+.page4 aside article{
+    background-color: #CCD1D1;
+    width: 900px;
+    height: 1100px;
+    margin: 30px;
+    padding: 1px;
+}
+.page4 aside article nav{
+    background-color: #EC7063;
+    width: 880px;
+    height: 520px;
+    margin: 20px 10px 20px 10px;
+    padding: 1px;
+}
+.page4 aside article div{
+    background-color: #9B59B6;
+    width: 880px;
+    height: 520px;
+    margin: 0px 10px 20px 10px;
+    padding: 1px;
+}
+
+.page4 aside article nav footer,.page4 aside div article{
+    background-color: #1ABC9C;
+    width: 840px;
+    height: 500px;
+    margin: 10px 20px;
+    padding: 1px;
+}
+.page4 aside article nav footer div,.page4 aside div article nav{
+    background-color:#2E4053;
+    width: 780px;
+    height: 460px;
+    margin: 20px 30px;
+}
+/*pagina 5*/
+.page5{
+    background-color: #2E86C1;
+    width: 900px;
+    height: 1520px;
+    margin: 70px 0px 0px 60px;
+    padding: 1px;   
+}
+.page5 footer{
+    background-color: #2ECC71;
+    width: 800px;
+    height: 1200px;
+    margin: 20px 60px 40px 40px;
+    padding: 1px;
+}
+.page5 footer nav,.page5 footer div,.page5 footer article{
+    width: 760px;
+    height: 300px;
+}
+.page5 footer nav{
+    background-color: #F7DC6F;
+    margin: 20px 30px 30px 30px;
+}
+.page5 footer div{
+    background-color: #F1948A;
+    margin: 0px 20px 15px 40px;
+}
+.page5 footer article{
+    background-color: #5D6D7E;
+    margin: 0px 40px 15px 20px;    
+}
+.page5 footer aside {
+    background-color: #17202A;
+    width: 760px;
+    height: 200px;
+    margin: 0px 45px 20px 15px;
+}
+.page5 main{
+    background-color: #D0D3D4;
+    width: 700px;
+    height: 200px;
+    margin: 0px 100px 60px 100px;
+
+}
